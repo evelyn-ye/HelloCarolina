@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":466,"text":"Hey there"},{"start":1700,"text":"I  still remember my first time dining out in the US"},{"start":5400,"text":"I was really lucky"},{"start":7066,"text":"An older international student took me out"},{"start":9933,"text":"and explained everything so patiently"},{"start":13433,"text":"He showed me how to order,"},{"start":15633,"text":"how to split the check and how tipping works here"},{"start":20033,"text":"Thanks to him,"},{"start":21066,"text":"that first experience felt easy and fun"},{"start":24933,"text":"It reminded me"},{"start":26233,"text":"how nice it is to have someone guiding you"},{"start":29333,"text":"So I hope this course can do the same for you"},{"start":33500,"text":"And don't forget after your own meal,"},{"start":36133,"text":"come back and share your experience too"},{"start":39600,"text":"Let's dig in!"}]}]};
+    window.globalLoadJsAsset('story_content/61cX6ZTvZeN_transcripts.js', JSON.stringify(data));
+})();

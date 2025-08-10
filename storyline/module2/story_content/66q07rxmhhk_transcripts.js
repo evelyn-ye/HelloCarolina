@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":633,"text":"hey there"},{"start":2400,"text":"let me tell you why this module is important"},{"start":6133,"text":"taking the bus sounds easy"},{"start":8033,"text":"but when you are new here it can get really confusing"},{"start":12933,"text":"I still remember my first ride"},{"start":15133,"text":"I was waiting for the D route. But it never came"},{"start":18633,"text":"So I ran to another stop to catch the 400"},{"start":23300,"text":"But when the bus arrived"},{"start":25133,"text":"everyone was scanning something and I didn't have it"},{"start":29600,"text":"I totally panicked"},{"start":31700,"text":"So that moment made me think"},{"start":34666,"text":"I wish someone had explained it"},{"start":36833,"text":"how this work for me before"},{"start":39900,"text":"So that's what we will do here—"},{"start":43300,"text":"make sure your first ride goes a lot of smoother"},{"start":46700,"text":"than mine"},{"start":48100,"text":"Let's go!"}]}]};
+    window.globalLoadJsAsset('story_content/66q07rxmhhk_transcripts.js', JSON.stringify(data));
+})();

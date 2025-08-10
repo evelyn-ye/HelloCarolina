@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":433,"text":"Hi there"},{"start":2033,"text":"This module brings back one of my biggest culture shocks"},{"start":6433,"text":"Where I'm from"},{"start":7433,"text":"The price you see is the price you pay"},{"start":11033,"text":"But in the US,"},{"start":12066,"text":"that number on the tag?"},{"start":14200,"text":"It's not the final price"},{"start":16633,"text":"It definitely took me a while to get used to that"},{"start":21400,"text":"But understanding how sale tax works"},{"start":24433,"text":"isn't just useful for shopping—"},{"start":26833,"text":"it's also part of living"},{"start":28600,"text":"and working in the U.S. long-term"},{"start":32200,"text":"So let's start simple: a trip to the market"},{"start":36033,"text":"And don't forget come back "},{"start":37900,"text":"and share what you noticed "},{"start":39766,"text":"after your shopping experience "},{"start":41933,"text":"Let's go"}]}]};
+    window.globalLoadJsAsset('story_content/5w0EugAtNNP_transcripts.js', JSON.stringify(data));
+})();
