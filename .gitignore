@@ -17,3 +17,24 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
+.DS_Store
+
+# Storyline temp/backup files
+*.storylinetmp
+~$*.story
+*.story~
+*.tmp
+*.bak
+*.lck
+__MACOSX/
+
+# Logs and OS cruft
+*.log
+Thumbs.db
+ehthumbs.db
+desktop.ini
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
